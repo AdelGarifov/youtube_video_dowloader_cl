@@ -1,6 +1,9 @@
 # Загрузчик видео с youtube cl
 
-**!!! Для работы нужен ключ от youtube data v3**
+## Требования
+1. Смотреть requirements.txt
+2. Python 3.9.6
+3. **!!! Для работы нужен ключ от youtube data v3**
 https://developers.google.com/youtube/v3/getting-started
 
 на 32й строке
