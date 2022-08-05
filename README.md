@@ -1,7 +1,7 @@
 # Загрузчик видео с youtube cl
 
 ## Требования
-1. Смотреть requirements.txt
+1. Установи библиотеки python -m pip install -r requirements.txt
 2. Python 3.9.6
 3. **!!! Для работы нужен ключ от youtube data v3**
 https://developers.google.com/youtube/v3/getting-started
