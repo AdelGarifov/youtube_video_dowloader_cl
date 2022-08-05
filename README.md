@@ -1,9 +1,15 @@
 # Загрузчик видео с youtube cl
 
-**Для работы нужен ключ от youtube data v3**
+**!!! Для работы нужен ключ от youtube data v3**
 https://developers.google.com/youtube/v3/getting-started
 
-Работает с файловой системой Windows, под Unix систему не подойдёт
+на 32й строке
+```python
+# Ввести API Ключ Youtube data v3
+pafy.set_api_key('API KEY')
+```
+
+Работает с файловой системой Windows, под Unix систему не подойдёт.
 Сохраняет в папку документ/youtube/название плейлиста
 
 Два режима:
